@@ -107,7 +107,7 @@ img {
     margin-top: 10px;
 }
 
-.notice-content__join-btn {
+a.notice-content__join-btn {
     border: none;
     outline: none;
     cursor: pointer;
@@ -121,7 +121,7 @@ img {
     margin-top: 30px;
 }
 
-.notice-content__join-btn:before {
+a.notice-content__join-btn:before {
     content: '';
     display: block;
     width: 50px;
