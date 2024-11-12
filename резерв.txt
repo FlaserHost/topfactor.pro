@@ -1,0 +1,13 @@
+.b-photo-cap_registration{/*background:url(../img/banner_registration-form.jpg) center right no-repeat;background-size:cover*/}
+
+.b-photo-cap{height:200px;padding:0;position:relative;background:url(../img/photo-cap.jpg) center right no-repeat;background-size:cover}
+
+.b-pseudoform form{background:#e0e9f2;padding:2em;border-radius:20px}
+
+.b-text h3,.b-text .h3{font-weight:bolder;color:#029292;margin:2em/2 0 1em/2;font-size:20px}
+
+.b-pseudoform{padding:1em 0;white-space:normal;font-size:16px;color:#707080}
+
+.b-photo-cap .wrapper{position:absolute;top:50%;left:50%;-webkit-transform:translate3d(-50%,-50%,0);transform:translate3d(-50%,-50%,0)}
+
+.b-photo-cap{height:200px;padding:0;position:relative}
